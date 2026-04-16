@@ -1,4 +1,5 @@
 👋 Hey, I'm Ty
+
 Founder & CTO @ InTym Labs · AI Product Builder · Full-Stack Engineer · Web3 Native
 
 🌐 intym.xyz · 🦓 getzebrafy.com · 𝕏 @TyInTech · 💼 linkedin.com/in/stevensonty
